@@ -1,0 +1,3 @@
+﻿  start.cpp
+C:\Users\nabil\source\repos\PrototypeSADProj\register.cpp(66,1): warning C4715: 'registerAcc': not all control paths return a value
+  PrototypeSADProj.vcxproj -> C:\Users\nabil\source\repos\PrototypeSADProj\x64\Debug\PrototypeSADProj.exe
